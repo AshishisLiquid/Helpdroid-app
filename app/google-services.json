@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "758856431368",
+    "firebase_url": "https://helpdroid-b0587.firebaseio.com",
+    "project_id": "helpdroid-b0587",
+    "storage_bucket": "helpdroid-b0587.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758856431368:android:a6ab3d1476af93aa595ebd",
+        "android_client_info": {
+          "package_name": "co.syntags.helpdroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758856431368-r843puct2ne0ics07ruriqe41j43anu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIDDFNL0FCmN-mtxQFsIo6SwKIMVrKF90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758856431368-r843puct2ne0ics07ruriqe41j43anu5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
